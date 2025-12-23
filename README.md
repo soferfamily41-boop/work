@@ -1,4 +1,4 @@
-[service_providers_html.html](https://github.com/user-attachments/files/24304974/service_providers_html.html)
+
 <!DOCTYPE html>
 <html lang="he" dir="rtl">
 <head>
